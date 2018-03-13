@@ -16,6 +16,7 @@ namespace Bai1
                 Console.WriteLine(ip);
             }
             Console.ReadLine();
+            //iuwegafiuasgfiuahseiufhaesfhaiuesfhaseiuf afhawerweah iurahwriu
         }
     }
 }
